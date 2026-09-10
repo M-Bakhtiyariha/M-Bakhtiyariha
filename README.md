@@ -1,75 +1,212 @@
+```markdown
 <div align="center">
-  <h1>محسن بختیاری‌ها</h1>
-  <p><strong>توسعه‌دهنده نرم‌افزار فول استک | متخصص اکوسیستم دات‌نت</strong></p>
-  <p>نرم‌افزار را ساده، پایدار و قابل رشد می‌سازم.</p>
-  <br/>
-  <p>
-    <a href="https://www.m-bakhtiyariha.ir">وب‌سایت شخصی</a> •
-    <a href="[https://www.linkedin.com/in/m-bakhtiyariha](https://www.linkedin.com/in/mohsen-bakhtiyariha-45546b12a/)">لینکدین</a> •
-    <a href="mailto:bakhtiyariha@gmail.com">ایمیل</a>
-  </p>
-  <br/>
+
+# 👋 محسن بختیاری‌ها | Mohsen Bakhtiyariha
+
+### Full-Stack .NET Developer | Software Architect | Microsoft Ecosystem Specialist
+
+<p>
+ساخت نرم‌افزارهای ساده، پایدار و قابل رشد با تمرکز بر ارزش واقعی محصول
+</p>
+
+<p>
+Building simple, reliable, and scalable software with a product-focused mindset
+</p>
+
+<br/>
+
+<a href="https://www.m-bakhtiyariha.ir">🌐 Website</a> •
+<a href="https://www.linkedin.com/in/mohsen-bakhtiyariha-45546b12a/">💼 LinkedIn</a> •
+<a href="mailto:bakhtiyariha@gmail.com">✉️ Email</a>
+
 </div>
 
 ---
 
-### 👨‍💻 درباره من
+# 🇮🇷 درباره من | About Me
 
-من محسن بختیاری‌ها، یک توسعه‌دهنده نرم‌افزار فول استک با تمرکز ویژه بر روی تکنولوژی‌های مایکروسافت، به خصوص اکوسیستم دات‌نت هستم. با بیش از **۱۰ سال تجربه** در تحلیل، طراحی و توسعه نرم‌افزارهای تحت وب و دسکتاپ، به حل مسائل پیچیده و تبدیل آنها به محصولاتی روشن و کارآمد علاقه دارم.
+## فارسی
 
-> **رویکرد من:** Product-minded – یعنی به محصول به چشم یک موجود زنده نگاه می‌کنم که باید برای کاربر روشن، برای کسب‌وکار مفید و برای تیم توسعه قابل نگهداشت باشد.
+من **محسن بختیاری‌ها**، توسعه‌دهنده نرم‌افزار فول‌استک با تمرکز ویژه بر اکوسیستم **Microsoft .NET** هستم.
 
----
+در سال‌های فعالیت حرفه‌ای خود در زمینه تحلیل، طراحی و توسعه نرم‌افزارهای تحت وب، دسکتاپ و موبایل، روی ساخت محصولاتی کار کرده‌ام که علاوه بر کیفیت فنی، برای کاربران و کسب‌وکارها ارزش واقعی ایجاد کنند.
 
-### 🚀 حوزه‌های تخصصی
+تخصص اصلی من طراحی و توسعه راهکارهای نرم‌افزاری با استفاده از تکنولوژی‌های مدرن دات‌نت، معماری قابل توسعه، طراحی تجربه کاربری مناسب و تبدیل نیازهای پیچیده کسب‌وکار به سیستم‌های قابل نگهداری است.
 
-| حوزه | توضیح |
-| :--- | :--- |
-| **سامانه‌های تحت وب** | طراحی و توسعه محصولات سازمانی و وب‌اپلیکیشن‌های پایدار؛ از تحلیل گردش کار و مدل داده تا رابط کاربری، احراز هویت و گزارش‌های کاربردی. |
-| **معماری و Backend** | طراحی سرویس‌ها و مدل داده با مرزبندی روشن، امنیت مناسب و ساختاری که تغییر نیازهای محصول را بدون بازنویسی پرهزینه تحمل کند. |
-| **تجربه محصول** | تبدیل فرایندهای پیچیده به مسیرهای روشن و قابل فهم؛ با تمرکز بر فرم‌ها، داشبوردها و جزئیاتی که خطای کاربر را کاهش می‌دهند. |
+> رویکرد من:
+>
+> **Software is not only code; it is a solution to a real problem.**
 
 ---
 
-### 🛠️ مهارت‌های فنی
+## English
+
+I am **Mohsen Bakhtiyariha**, a Full-Stack Software Developer specializing in the **Microsoft .NET ecosystem**.
+
+Throughout my professional journey, I have designed and developed web, desktop, and mobile applications with a strong focus on maintainability, scalability, and real business value.
+
+My main interest is building software solutions that combine clean architecture, great user experience, and practical problem-solving.
+
+> My mindset:
+>
+> **Software is not only about writing code; it is about creating valuable solutions.**
+
+---
+
+# 🚀 تخصص‌ها | Expertise
+
+| فارسی | English |
+|---|---|
+| توسعه نرم‌افزارهای سازمانی و تحت وب | Enterprise & Web Application Development |
+| طراحی معماری نرم‌افزار | Software Architecture Design |
+| توسعه Backend با .NET | Backend Development with .NET |
+| طراحی API و سرویس‌های نرم‌افزاری | API & Service Design |
+| توسعه رابط کاربری مدرن | Modern Frontend Development |
+| توسعه اپلیکیشن موبایل با .NET MAUI | Cross-Platform Mobile Development |
+| توسعه برنامه‌های دسکتاپ WPF | Desktop Application Development |
+
+---
+
+# 🛠️ Technical Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/-ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" />
-  <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
 </div>
 
----
-
-### 📌 اصول کاری من
-
-1.  **مسئله قبل از تکنولوژی**: ابتدا نیاز، محدودیت و معیار موفقیت را روشن می‌کنم؛ بعد سراغ ابزار می‌روم.
-2.  **معماری قابل تغییر**: ساختاری می‌سازم که رشد محصول، تیم و داده را بدون بازنویسی پرهزینه تحمل کند.
-3.  **تحویل مسئولانه**: کیفیت کد، تجربه کاربر، امنیت و نگهداشت را بخشی از یک خروجی واحد می‌بینم.
 
 ---
 
-### 📈 آمار گیت‌هاب
+# 📌 Projects | پروژه‌ها
+
+## ☕ CafeGard (کافه‌گرد)
+
+**Technology:** .NET MAUI
+
+A cross-platform mobile application for discovering cafes and providing location-based services.
+
+---
+
+## 🗺 Rahnama (راهنما)
+
+**Technology:** WPF + JavaScript/TypeScript Maps
+
+A desktop application combining powerful desktop capabilities with interactive map experiences.
+
+---
+
+## 📱 Rahnama Mobile
+
+**Technology:** .NET MAUI
+
+A mobile solution developed using Microsoft's cross-platform framework.
+
+---
+
+## 📰 Magnetron (مگنترون)
+
+**Technology:** ASP.NET Core
+
+A modern web-based news platform.
+
+---
+
+## ☁️ Cloud Backup System
+
+**Technology:** WinForms + Database Backup Automation
+
+A desktop solution for scheduled database backups and cloud storage management.
+
+---
+
+# 🧠 Development Principles
+
+## فارسی
+
+✅ **اول مسئله، بعد تکنولوژی**
+
+قبل از انتخاب ابزار، نیاز واقعی، محدودیت‌ها و هدف محصول را بررسی می‌کنم.
+
+✅ **معماری برای تغییر**
+
+سیستم‌هایی طراحی می‌کنم که بتوانند با رشد محصول و تغییر نیازها تکامل پیدا کنند.
+
+✅ **کیفیت در کنار سرعت**
+
+کدنویسی تمیز، تجربه کاربری مناسب و قابلیت نگهداری را بخشی از یک محصول موفق می‌دانم.
+
+---
+
+## English
+
+✅ **Problem First, Technology Second**
+
+I focus on understanding the real problem before choosing a technical solution.
+
+✅ **Architecture for Change**
+
+I design systems that can evolve as products and requirements grow.
+
+✅ **Quality Matters**
+
+Clean code, user experience, and maintainability are essential parts of professional software development.
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Bakhtiyariha&show_icons=true&theme=radical" alt="آمار گیت‌هاب" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Bakhtiyariha&layout=compact&theme=radical" alt="زبان‌های پرکاربرد" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=M-Bakhtiyariha&show_icons=true&theme=radical"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Bakhtiyariha&layout=compact&theme=radical"/>
+
 </div>
 
----
-
-### 📬 ارتباط با من
-
-اگر مسئله‌ای دارید که به تحلیل، طراحی یا توسعه دقیق نیاز دارد، از یک گفت‌وگوی کوتاه شروع کنیم.
-
-- **وب‌سایت**: [www.m-bakhtiyariha.ir](https://www.m-bakhtiyariha.ir)
-- **ایمیل**: [ایمیل خود را وارد کنید]
-- **لینکدین**: [لینک پروفایل خود را وارد کنید]
 
 ---
 
-> 💡 این README به‌روز است و منعکس‌کنندهٔ تخصص، تجربه و رویکرد حرفه‌ای من در توسعه نرم‌افزار می‌باشد.
+# 📚 Continuous Learning
+
+I continuously explore:
+
+- Modern .NET Technologies
+- Software Architecture
+- Clean Code Practices
+- Mobile Development
+- Cloud & Deployment Solutions
+- Product-Oriented Development
+
+
+---
+
+# 📬 Contact
+
+🌐 Website  
+https://www.m-bakhtiyariha.ir
+
+💼 LinkedIn  
+https://www.linkedin.com/in/mohsen-bakhtiyariha-45546b12a/
+
+✉️ Email  
+bakhtiyariha@gmail.com
+
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
+```
