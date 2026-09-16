@@ -55,6 +55,48 @@ Lightweight JSON data repository used as a supporting source for software and da
 
 [View repository](https://github.com/M-Bakhtiyariha/MyData)
 
+## Private / Ongoing Projects
+
+Some of my larger projects are kept private because they are commercial, experimental, or still under active development. A few examples:
+
+### BlindRadarSpot
+
+A desktop radar and geospatial analysis platform built with **WPF**, **WebView2**, **JavaScript/TypeScript**, and **MapLibre**, designed for offline map visualization, terrain data, routing, radar coverage analysis, and related desktop workflows.
+
+### BlindRadarSpot - Clean Architecture
+
+A restructured version of BlindRadarSpot focused on **Clean Architecture**, modularity, maintainability, clearer separation of concerns, and long-term scalability.
+
+### CafeGard
+
+A **.NET MAUI** mobile application for discovering and browsing cafes, including map-based interaction, local JSON data, cafe details, and cross-platform UI development.
+
+### RahNama
+
+A mapping-oriented **WPF desktop application** combining .NET with JavaScript/TypeScript-based map technologies for interactive geospatial workflows.
+
+### RahNama - New Version
+
+A newer iteration of RahNama focused on improving structure, maintainability, and the overall map-based desktop experience.
+
+### CloudBackup
+
+A **C# / WinForms** backup utility for automating SQL Server database backups, compressing backup files, transferring them to cloud storage, and supporting notification workflows.
+
+### Magnatron
+
+An **ASP.NET Core** web platform developed as a content-oriented and news-style web application within the .NET ecosystem.
+
+### GoldPriceAnalyst
+
+A desktop analytical application for **gold-price analysis and forecasting**, including charting, prediction workflows, multiple time ranges, and data-driven decision support.
+
+### SearchAndTrack
+
+An experimental desktop project focused on **search, tracking, target visualization, and radar-style interaction** in a .NET desktop environment.
+
+> Source code for the projects above is private, but selected technical details, architecture notes, screenshots, and demos may be published separately over time.
+
 ## Technology Stack
 
 <div align="center">
@@ -78,21 +120,17 @@ Lightweight JSON data repository used as a supporting source for software and da
 - Machine learning with .NET
 - Open-source project quality and documentation
 
-## GitHub Statistics
+## GitHub Activity
 
-<div align="center">
+Instead of relying on external stat-image services, this profile focuses on projects, source code, documentation, and practical engineering work.
 
-<img src="https://github-readme-stats.vercel.app/api?username=M-Bakhtiyariha&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Bakhtiyariha&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+You can explore my public repositories directly from the **Repositories** tab and follow ongoing updates through my GitHub activity.
 
 ## فارسی
 
 من **محسن بختیاری‌ها**، توسعه‌دهنده نرم‌افزار با بیش از **۱۳ سال تجربه** در اکوسیستم .NET هستم. تمرکز من روی توسعه نرم‌افزارهای دسکتاپ، وب، موبایل، معماری نرم‌افزار، پایگاه داده و پروژه‌های داده‌محور است.
 
-در GitHub تلاش می‌کنم نمونه‌پروژه‌ها، پروژه‌های آموزشی و تجربه‌های فنی مرتبط با C# و .NET را به شکلی قابل استفاده و مستند منتشر کنم.
+در GitHub تلاش می‌کنم علاوه بر پروژه‌های عمومی، بخشی از پروژه‌های خصوصی و در حال توسعه‌ام را نیز از طریق معرفی فنی، معماری، تصاویر و مستندات نمایش دهم؛ حتی زمانی که سورس اصلی آن‌ها به دلایل تجاری یا توسعه‌ای خصوصی باقی می‌ماند.
 
 ## Contact
 
