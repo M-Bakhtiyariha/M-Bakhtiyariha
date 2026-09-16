@@ -2,302 +2,108 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:512BD4,100:239120&text=Mohsen%20Bakhtiyariha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# 👨‍💻 Full-Stack .NET Developer
+# Full-Stack .NET Developer
 
-### C# | .NET | Blazor | ASP.NET Core | WPF | .NET MAUI
+### C# | .NET | ASP.NET Core | Blazor | WPF | WinForms | .NET MAUI | ML.NET
 
-<p>
-Building reliable, scalable and maintainable software solutions.
-</p>
+Building maintainable software, desktop applications, data-driven systems, and practical .NET solutions.
 
-<p>
-طراحی و توسعه نرم‌افزارهای پایدار، قابل توسعه و ارزشمند برای کسب‌وکار
-</p>
-
-<br>
-
-<a href="https://www.m-bakhtiyariha.ir">
-<img src="https://img.shields.io/badge/Website-m--bakhtiyariha.ir-512BD4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohsen-bakhtiyariha-45546b12a/">
-<img src="https://img.shields.io/badge/LinkedIn-Mohsen%20Bakhtiyariha-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+[![Website](https://img.shields.io/badge/Website-m--bakhtiyariha.ir-512BD4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.m-bakhtiyariha.ir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsen%20Bakhtiyariha-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohsen-bakhtiyariha-45546b12a/)
 
 </div>
 
+## About Me
 
----
+I am **Mohsen Bakhtiyariha**, a software developer with **13+ years of experience** building desktop, web, mobile, and database-driven applications with the Microsoft .NET ecosystem.
 
-# 🇮🇷 درباره من | About Me
+My main areas of interest include:
 
-
-## فارسی
-
-من **محسن بختیاری‌ها**، توسعه‌دهنده فول‌استک نرم‌افزار با بیش از **۱۳ سال تجربه** در طراحی و توسعه سیستم‌های نرم‌افزاری هستم.
-
-تمرکز اصلی من روی اکوسیستم **Microsoft .NET**، معماری نرم‌افزار، توسعه Backend، طراحی رابط کاربری و ساخت محصولات نرم‌افزاری قابل نگهداری است.
-
-در پروژه‌های مختلف، از سیستم‌های سازمانی و نرم‌افزارهای دسکتاپ تا اپلیکیشن‌های موبایل و وب‌اپلیکیشن‌ها فعالیت داشته‌ام.
-
-دیدگاه من:
-
-> نرم‌افزار فقط کد نیست؛ راهکاری است برای حل یک مسئله واقعی.
-
-
----
-
-## English
-
-I am **Mohsen Bakhtiyariha**, a Full-Stack Software Developer with **13+ years of experience** in designing and developing software solutions.
-
-My main focus is the **Microsoft .NET ecosystem**, software architecture, backend development, user experience, and building maintainable products.
-
-I have worked on enterprise systems, desktop applications, web platforms, and cross-platform mobile applications.
-
-My philosophy:
+- .NET software architecture
+- WPF and WinForms desktop applications
+- ASP.NET Core and Blazor
+- .NET MAUI cross-platform development
+- SQL Server and SQLite
+- ML.NET and intelligent desktop applications
+- Mapping and data-oriented software
 
 > Software is not only code; it is a solution to a real-world problem.
 
+## Featured Public Projects
 
----
+### Radar Target Type Prediction
 
-# 🛠 Technology Stack
+Machine-learning desktop prototype built with **C#**, **WPF**, and **ML.NET** for experimenting with radar target classification.
 
+[View repository](https://github.com/M-Bakhtiyariha/TargetTypePrediction)
+
+### Simple Accounting
+
+Educational **WinForms + SQL Server** desktop application demonstrating CRUD workflows and basic accounting-oriented data management.
+
+[View repository](https://github.com/M-Bakhtiyariha/HesabDari)
+
+### SRTM Maps Data
+
+Supporting elevation and terrain data repository for mapping and geospatial software experiments.
+
+[View repository](https://github.com/M-Bakhtiyariha/SrtmMaps)
+
+### MyData
+
+Lightweight JSON data repository used as a supporting source for software and data-processing experiments.
+
+[View repository](https://github.com/M-Bakhtiyariha/MyData)
+
+## Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,visualstudio,sqlite,git,github,js,ts,html,css"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlite,git,github,js,ts,html,css"/>
 
 </div>
 
-
-### Backend
-
-- C#
-- .NET / ASP.NET Core
-- Entity Framework Core
-- REST API
-- Software Architecture
-
-
-### Frontend
-
-- Blazor
-- HTML / CSS
-- JavaScript
-- TypeScript
-
-
-### Desktop & Mobile
-
-- WPF
-- WinForms
-- .NET MAUI
-
-
-### Database
-
-- SQLite
-- SQL Server
-
-
----
-
-# 🚀 Featured Projects
-
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-
-## ☕ کافه‌گرد | CafeGard
-
-**.NET MAUI Mobile Application**
-
-اپلیکیشن جستجو و معرفی کافه‌ها با قابلیت توسعه چندسکویی.
-
-**Technology**
-
-C#  
-.NET MAUI  
-Mobile Development
-
-
-</td>
-
-<td width="50%">
-
-
-## 🗺 رهنما | Rahnama
-
-**WPF Desktop Application**
-
-نرم‌افزار دسکتاپ با قابلیت نمایش و تعامل با نقشه.
-
-**Technology**
-
-C#  
-WPF  
-JavaScript / TypeScript
-
-
-</td>
-
-</tr>
-
-
-<tr>
-
-
-<td width="50%">
-
-
-## 📱 راهنما | Rahnama Mobile
-
-**Cross Platform Application**
-
-اپلیکیشن موبایل توسعه داده شده با معماری مدرن دات‌نت.
-
-
-**Technology**
-
-.NET MAUI  
-C#
-
-
-</td>
-
-
-<td width="50%">
-
-
-## 📰 مگنترون | Magnetron
-
-**ASP.NET Core Platform**
-
-وب‌سایت خبری و محتوایی تحت وب.
-
-
-**Technology**
-
-ASP.NET Core  
-.NET
-
-
-</td>
-
-
-</tr>
-
-
-<tr>
-
-<td colspan="2">
-
-
-## ☁️ Cloud Backup System
-
-سیستم WinForms برای پشتیبان‌گیری خودکار دیتابیس و انتقال به فضای ابری.
-
-
-**Technology**
-
-C#  
-WinForms  
-Database Automation
-
-
-</td>
-
-</tr>
-
-
-</table>
-
-
----
-
-# 🧠 Development Approach
-
-
-### فارسی
-
-✔ ابتدا مسئله، سپس تکنولوژی
-
-✔ طراحی معماری برای تغییر و رشد
-
-✔ تمرکز روی کیفیت، امنیت و نگهداری آسان
-
-✔ تبدیل نیازهای پیچیده به تجربه ساده برای کاربر
-
-
-### English
-
-✔ Problem first, technology second
-
-✔ Architecture designed for growth
-
-✔ Clean and maintainable code
-
-✔ Turning complex requirements into simple experiences
-
-
----
-
-# 📈 GitHub Statistics
-
+**Backend:** C#, .NET, ASP.NET Core, REST APIs, Entity Framework Core  
+**Desktop:** WPF, WinForms  
+**Mobile:** .NET MAUI  
+**Frontend:** Blazor, HTML, CSS, JavaScript, TypeScript  
+**Data:** SQL Server, SQLite, JSON  
+**Machine Learning:** ML.NET
+
+## Current Focus
+
+- Clean and maintainable .NET architecture
+- Desktop engineering with WPF
+- Data-intensive and mapping applications
+- Machine learning with .NET
+- Open-source project quality and documentation
+
+## GitHub Statistics
 
 <div align="center">
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=M-Bakhtiyariha&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Bakhtiyariha&layout=compact&theme=tokyonight&hide_border=true"/>
-
 
 </div>
 
+## فارسی
 
----
+من **محسن بختیاری‌ها**، توسعه‌دهنده نرم‌افزار با بیش از **۱۳ سال تجربه** در اکوسیستم .NET هستم. تمرکز من روی توسعه نرم‌افزارهای دسکتاپ، وب، موبایل، معماری نرم‌افزار، پایگاه داده و پروژه‌های داده‌محور است.
 
-# 📚 Currently Exploring
+در GitHub تلاش می‌کنم نمونه‌پروژه‌ها، پروژه‌های آموزشی و تجربه‌های فنی مرتبط با C# و .NET را به شکلی قابل استفاده و مستند منتشر کنم.
 
-- Modern .NET Architecture
-- Clean Architecture
-- Cloud Deployment
-- Product-Oriented Development
-- AI Assisted Software Development
+## Contact
 
-
----
-
-# 📬 Contact
-
-
-🌐 Website
-
-https://www.m-bakhtiyariha.ir
-
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/mohsen-bakhtiyariha-45546b12a/
-
-
-✉️ Email
-
-bakhtiyariha@gmail.com
-
+Website: https://www.m-bakhtiyariha.ir  
+LinkedIn: https://www.linkedin.com/in/mohsen-bakhtiyariha-45546b12a/  
+GitHub: https://github.com/M-Bakhtiyariha
 
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile
+If one of my projects is useful to you, a ⭐ is always appreciated.
 
 </div>
